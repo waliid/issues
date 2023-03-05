@@ -1,0 +1,17 @@
+.DS_Store
+
+.ruby-version
+
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+*.xcscmblueprint
+
+DerivedData/
+
+.swiftpm/config/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+
+.netrc
+.vscode
